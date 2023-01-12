@@ -1,2 +1,2 @@
 # gamecity-primary
-Actual GC
+Actual GC website
